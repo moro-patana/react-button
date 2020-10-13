@@ -17,6 +17,9 @@ h1 {
     grid-template-columns: repeat(4, 1fr);
     padding: 2rem;
 }
+.button {
+    cursor: pointer;
+}
 .button.button {
     width: 81px;
     height: 36px;
